@@ -9,17 +9,21 @@
           "title": "Piano Sonata No. 3",
           "artist": "Beethoven",
           "duration": "10:00",
-          "genre": "empty"
+          "genre": "Classical"
         },
         {
           "id": "01-2",
           "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "Classical"
         },
         {
           "id": "01-3",
           "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "Classical"
         }
       ]
     },
@@ -30,17 +34,23 @@
         {
           "id": "02-1",
           "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "Classical"
         },
         {
           "id": "02-2",
           "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "Classical"
         },
         {
           "id": "02-3",
           "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "Classical"
         }
       ]
     },
@@ -52,19 +62,24 @@
           "id": "03-1",
           "title": "Hooked on a Feeling",
           "artist": "Blue Swede",
-          "duration": "10:00",
-          "genre": "empty"
+          "duration": "2:42",
+          "genre": "Pop rock"
 
         },
         {
           "id": "03-2",
           "title": "Mr. Blue Sky",
-          "artist": "Electric Light Orchestra"
+          "artist": "Electric Light Orchestra",
+          "duration": "5:06",
+          "genre": "Pop rock"
+
         },
         {
           "id": "03-3",
           "title": "Redbone",
-          "artist": "Childish Gambino"
+          "artist": "Childish Gambino",
+          "duration": "5:26",
+          "genre": "Psychedelic soul"
         }
       ]
     }

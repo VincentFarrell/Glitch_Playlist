@@ -5,48 +5,64 @@
       "title": "Beethoven Sonatas",
       "songs": [
         {
+          "id": "01-1",
           "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          "duration": "10:00",
+          "genre": "empty"
         },
         {
+          "id": "01-2",
           "title": "Piano Sonata No. 7",
           "artist": "Beethoven"
         },
         {
+          "id": "01-3",
           "title": "Piano Sonata No. 10",
           "artist": "Beethoven"
         }
       ]
     },
     {
+      "id": "02",
       "title": "Beethoven Concertos",
       "songs": [
         {
+          "id": "02-1",
           "title": "Piano Concerto No. 0",
           "artist": "Beethoven"
         },
         {
+          "id": "02-2",
           "title": "Piano Concerto No. 4",
           "artist": "Beethoven"
         },
         {
+          "id": "02-3",
           "title": "Piano Concerto No. 6",
           "artist": "Beethoven"
         }
       ]
     },
     {
+      "id": "03",
       "title": "Absolute Bangers Mix",
       "songs": [
         {
+          "id": "03-1",
           "title": "Hooked on a Feeling",
-          "artist": "Blue Swede"
+          "artist": "Blue Swede",
+          "duration": "10:00",
+          "genre": "empty"
+
         },
         {
+          "id": "03-2",
           "title": "Mr. Blue Sky",
           "artist": "Electric Light Orchestra"
         },
         {
+          "id": "03-3",
           "title": "Redbone",
           "artist": "Childish Gambino"
         }

@@ -18,11 +18,6 @@
           "id" : "01-3",
           "Title": "Codecademy HTML",
           "Link": "https://www.codecademy.com/learn/learn-html"
-        },
-        {
-          "id" : "01-4",
-          "Title": "Codecademy HTML",
-          "Link": "https://www.codecademy.com/learn/learn-html"
         }
       ]
     },
@@ -63,27 +58,6 @@
         },
         {
           "id" : "03-3",
-          "Title": "Lynda.com Javascript Training and Tutorials",
-          "Link": "https://www.lynda.com/JavaScript-training-tutorials"
-        }
-      ]
-    },
-    {
-      "id" : "04",
-      "title": "Javascript Learning Resources",
-      "links": [
-        {
-          "id" : "04-1",
-          "Title": "W3 Schools Javascript Tutorial",
-          "Link": "https://www.w3schools.com/js/"
-        },
-        {
-          "id" : "04-2",
-          "Title": "Codecademy Javascript",
-          "Link": "https://www.codecademy.com/learn/introduction-to-javascript"
-        },
-        {
-          "id" : "04-3",
           "Title": "Lynda.com Javascript Training and Tutorials",
           "Link": "https://www.lynda.com/JavaScript-training-tutorials"
         }

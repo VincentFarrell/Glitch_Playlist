@@ -1,0 +1,93 @@
+{
+  "bookmarkCollection": [
+    {
+      "id" : "01",
+      "title": "HTML Learning Resources",
+      "links": [
+        {
+          "id" : "01-1",
+          "Title": "W3 Schools HTML Tutorial",
+          "Link": "https://www.w3schools.com/html/"
+        },
+        {
+          "id" : "01-2",
+          "Title": "Lynda.com HTML Training and Tutorials",
+          "Link": "https://www.lynda.com/HTML-training-tutorials/"
+        },
+        {
+          "id" : "01-3",
+          "Title": "Codecademy HTML",
+          "Link": "https://www.codecademy.com/learn/learn-html"
+        },
+        {
+          "id" : "01-4",
+          "Title": "Codecademy HTML",
+          "Link": "https://www.codecademy.com/learn/learn-html"
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "CSS Learning Resources",
+      "links": [
+        {
+          "id" : "02-1",
+          "Title": "Lynda.com CSS Training and Tutorials",
+          "Link": "https://www.lynda.com/CSS-training-tutorials/"
+        },
+        {
+          "id" : "02-2",
+          "Title": "W3 Schools CSS Tutorial",
+          "Link": "https://www.w3schools.com/css/"
+        },
+        {
+          "id" : "02-3",
+          "Title": "Codecademy CSS",
+          "Link": "https://www.codecademy.com/learn/learn-css/"
+        }
+      ]
+    },
+    {
+      "id" : "03",
+      "title": "Javascript Learning Resources",
+      "links": [
+        {
+          "id" : "03-1",
+          "Title": "W3 Schools Javascript Tutorial",
+          "Link": "https://www.w3schools.com/js/"
+        },
+        {
+          "id" : "03-2",
+          "Title": "Codecademy Javascript",
+          "Link": "https://www.codecademy.com/learn/introduction-to-javascript"
+        },
+        {
+          "id" : "03-3",
+          "Title": "Lynda.com Javascript Training and Tutorials",
+          "Link": "https://www.lynda.com/JavaScript-training-tutorials"
+        }
+      ]
+    },
+    {
+      "id" : "04",
+      "title": "Javascript Learning Resources",
+      "links": [
+        {
+          "id" : "04-1",
+          "Title": "W3 Schools Javascript Tutorial",
+          "Link": "https://www.w3schools.com/js/"
+        },
+        {
+          "id" : "04-2",
+          "Title": "Codecademy Javascript",
+          "Link": "https://www.codecademy.com/learn/introduction-to-javascript"
+        },
+        {
+          "id" : "04-3",
+          "Title": "Lynda.com Javascript Training and Tutorials",
+          "Link": "https://www.lynda.com/JavaScript-training-tutorials"
+        }
+      ]
+    }
+  ]
+}

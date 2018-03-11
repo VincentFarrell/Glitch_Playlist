@@ -1,7 +1,7 @@
 {
-  "name": "gomix-list",
+  "name": "WebmarkV2",
   "version": "0.0.1",
-  "description": "Starter project for learning gomix",
+  "description": "Bookmark manager App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -9,7 +9,6 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "cookie-parser": "^1.4.3",
     "express-handlebars": "^3.0.0",
     "lodash": "^4.17.3",
     "lowdb": "^0.14.0",
@@ -20,11 +19,8 @@
     "node": "6.9.1"
   },
   "repository": {
-    "url": "https://github.com/edeleastar/gomix-template-1.git"
+    "url": ""
   },
   "keywords": [
-    "node",
-    "gomix",
-    "express"
   ]
 }

@@ -1,0 +1,25 @@
+<table class="ui table">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Link</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each bookmark.links}}
+      <tr>
+        <td>
+          {{Title}}
+        </td>
+        <td>
+          <a href="{{Link}}">{{Link}}</a>
+        </td>
+        <td>
+          <a href="/bookmark/{{../bookmark.id}}/deletelink/{{id}}"><i class="large trash icon"></i></a>
+        </td>
+      
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
